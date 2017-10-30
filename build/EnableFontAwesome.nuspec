@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EnableFontAwesome</id>
+    <version>1.0.0</version>
+    <authors>johnnyqian</authors>
+    <owners>johnnyqian</owners>
+    <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/johnnyqian/enable-font-awesome-site-extension/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Azure App service site extension that enable Font Awesome web fonts</description>
+  </metadata>
+  <files>
+    <file src="..\src\*.*" target="content" />
+  </files>
+</package>
