@@ -2,7 +2,8 @@
 <package >
   <metadata>
     <id>EnableFontAwesome</id>
-    <version>1.0.0</version>
+    <title>Enable Font Awesome</title>
+    <version>1.0.1</version>
     <authors>johnnyqian</authors>
     <owners>johnnyqian</owners>
     <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
