@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+    <location path="%XDT_SITENAME%" xdt:Transform="InsertIfMissing" xdt:Locator="Match(path)">
+        <system.webServer xdt:Transform="InsertIfMissing">
+          <staticContent xdt:Transform="InsertIfMissing">
+              <remove fileExtension=".woff" />
+              <mimeMap fileExtension=".woff" mimeType="application/font-woff" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
+              <remove fileExtension=".woff2" />
+              <mimeMap fileExtension=".woff2" mimeType="application/font-woff2" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
+          </staticContent>
+        </system.webServer>
+    </location>
+</configuration>
