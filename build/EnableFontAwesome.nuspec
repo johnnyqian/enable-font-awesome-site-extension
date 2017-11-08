@@ -2,8 +2,10 @@
 <package >
   <metadata>
     <id>EnableFontAwesome</id>
+
     <title>Enable Static Web Fonts</title>
     <version>1.0.3</version>
+
     <authors>johnnyqian</authors>
     <owners>johnnyqian</owners>
     <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
