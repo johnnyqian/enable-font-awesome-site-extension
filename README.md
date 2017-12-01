@@ -1,3 +1,5 @@
+[![enable-font-awesome-site-extension MyGet Build Status](https://www.myget.org/BuildSource/Badge/enable-font-awesome-site-extension?identifier=82f9d693-12d1-45d8-9416-fceeef38b3af)](https://www.myget.org/)
+
 # Enable Web fonts for Azure App service
 
 By default files with .woff2, .woff and .tff extensions are not served by IIS in Azure App service. This extension simply add MIME types for these font files.
