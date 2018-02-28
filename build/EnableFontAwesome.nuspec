@@ -4,8 +4,7 @@
     <id>EnableFontAwesome</id>
     <title>Enable Static Web Fonts</title>
     <version>1.0.4</version>
-    <authors>johnnyqian</authors>
-    <owners>johnnyqian</owners>
+    <authors>Johnny Qian</authors>
     <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/johnnyqian/enable-font-awesome-site-extension/master/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
