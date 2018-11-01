@@ -8,8 +8,8 @@
     <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/johnnyqian/enable-font-awesome-site-extension/master/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Azure App Service site extension that enable static web fonts. .woff, .woff2 and .tff file are supported.</description>
-    <tags>AzureSiteExtension FontAwesome woff woff2 tff</tags>
+    <description>Azure App Service site extension that enable static web fonts. .woff, .woff2 and .ttf files are supported.</description>
+    <tags>AzureSiteExtension FontAwesome woff woff2 ttf</tags>
     <packageTypes>
       <packageType name="AzureSiteExtension" />
     </packageTypes>
