@@ -3,7 +3,7 @@
   <metadata>
     <id>EnableFontAwesome</id>
     <title>Enable Static Web Fonts</title>
-    <version>1.0.6</version>
+    <version>1.0.8</version>
     <authors>Johnny Qian</authors>
     <projectUrl>https://github.com/johnnyqian/enable-font-awesome-site-extension</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/johnnyqian/enable-font-awesome-site-extension/master/icon.png</iconUrl>
