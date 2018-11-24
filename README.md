@@ -13,6 +13,6 @@ This will work with:
 
 # How to add this extension
 
-Locate your **App Service** in Azure portal, in the blade, you'll find the "Extensions" tab, in the right pane, click "Add", find "Enable Static Web Fonts", click OK. That's it.
+Locate your **App Service** in Azure portal, in the blade, you'll find the "Extensions" tab, in the right pane, click "Add", find "Enable Static Web Fonts", click OK. Then **restart App Service**, that's it.
 
 ![Enable Static Web Fonts](https://raw.githubusercontent.com/johnnyqian/enable-font-awesome-site-extension/master/enable-static-web-fonts.png)
