@@ -1,4 +1,4 @@
-[![enable-font-awesome-site-extension MyGet Build Status](https://www.myget.org/BuildSource/Badge/enable-font-awesome-site-extension?identifier=82f9d693-12d1-45d8-9416-fceeef38b3af)](https://www.myget.org/)
+[![MyGet Build Status](https://www.myget.org/BuildSource/Badge/enable-font-awesome-site-extension?identifier=0aeb3391-cee8-4132-926c-9419d0b31d91)](https://www.myget.org/feed/Packages/enable-font-awesome-site-extension)
 
 # Enable web fonts for Azure App Service
 
@@ -8,7 +8,7 @@ This will work with:
 
 * Font Awesome
 * Simple Line Icons
-* IconMoon 
+* IconMoon
 * And any more static .woff2, .woff and .ttf files in your project
 
 # How to add this extension
