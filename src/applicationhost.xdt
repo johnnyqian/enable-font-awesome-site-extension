@@ -7,8 +7,10 @@
               <mimeMap fileExtension=".woff" mimeType="application/font-woff" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
               <remove fileExtension=".woff2" />
               <mimeMap fileExtension=".woff2" mimeType="application/font-woff2" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
-               <remove fileExtension=".ttf" />
+              <remove fileExtension=".ttf" />
               <mimeMap fileExtension=".ttf" mimeType="application/font-ttf" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
+              <remove fileExtension=".json" />
+              <mimeMap fileExtension=".json" mimeType="application/json" xdt:Transform="InsertIfMissing" xdt:Locator="Match(fileExtension)"/>
           </staticContent>
         </system.webServer>
     </location>
